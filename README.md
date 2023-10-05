@@ -22,8 +22,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Create Resources in Azure
 - Install Active Directory
-- Step 3
-- Step 4
+- Create an Admin and User Account in Active Directory 
+- Create Security Groups
+- Create Share Files
+- Set Share File Permissions
 
 <h2>Deployment and Configuration Steps</h2>
 
